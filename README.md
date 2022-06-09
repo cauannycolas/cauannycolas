@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cauannycolas
+- 👀 estou interrecado em aprender novas linguagem
+- 🌱estou aprendendo recentemente a linguagem de javascrit e screthc
